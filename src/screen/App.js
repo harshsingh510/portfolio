@@ -4,7 +4,7 @@ import '../styles/App.css';
 import { motion } from "framer-motion";
 import HomePage from "../pages/HomePage";
 import { FaAlignCenter } from "react-icons/fa";
-import { BsAlignCenter } from "react-icons/bs";
+import {  } from "react-icons/bs";
 
 function App() {
   // States

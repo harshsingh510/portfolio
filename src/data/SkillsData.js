@@ -10,18 +10,16 @@ import {
 	FaFigma,
 	FaPhp,
 	FaNodeJs,
-	FaMdb,
 	FaPython
 	
 } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import {
-	SiAdobephotoshop,
+	
 	SiTailwindcss,
 	SiNextdotjs,
 	SiTypescript,
-	SiFirebase,
 	SiStyledcomponents,
 	SiFramer,
 	// SiMaterialui,
