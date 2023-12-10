@@ -3,7 +3,8 @@
 </div>
 
 ## Snapshot 📸
-![Portfolio Landing Page](https://user-images.githubusercontent.com/60526129/220429098-094368a0-c117-4036-a113-a625cf563c3c.png)
+![Portfolio Landing Page](![image](https://github.com/harshsingh510/portfolio/assets/94822101/1562c24e-eb01-49a8-b0e7-589034ba2971)
+)
 
 
 ## Tech Stack ✨
