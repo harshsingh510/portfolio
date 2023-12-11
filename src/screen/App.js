@@ -30,8 +30,8 @@ function App() {
     loading ? 
     <div className="loader">
       <div className="svg-wrapper">
-        <svg  xmlns="http://www.w3.org/2000/svg" >
-          <rect className="shape"  />
+        <svg height={60} width={300} xmlns="http://www.w3.org/2000/svg" >
+          <rect height={60} width={300} className="shape"  />
         </svg>        
         <motion.p variants={loadText} initial='hidden' animate='visible' className="text">Harsh Singh</motion.p>
       </div>

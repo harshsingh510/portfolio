@@ -27,7 +27,7 @@
 .hero-content {
 	font-family: "Lato", sans-serif;
 	margin-bottom: 2rem;
-	width: fit-content;
+	width: auto;
 }
 
 .hero-intro {

@@ -81,6 +81,11 @@ html, body {
 /*  Load animations */
 .svg-wrapper {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
 
 @keyframes pageLoad {
@@ -111,9 +116,12 @@ html, body {
   letter-spacing: 8px;
   color: #fff;
   position: absolute;
-  left: 20px;
-  top: 10px;
+  /* left: 20px; */
+  /* top: 10px; */
   width: 100%;
+  margin: auto;
+  /* justify-content: center; */
+  text-align: center;
   transform: translate(-50% -50%);
 }
 
@@ -127,8 +135,8 @@ html, body {
   .text {
     font-size: 13px;
     position: absolute;
-    left: 40px;
-    top: 10px;
+    /* left: 40px;
+    top: 10px; */
   }
   .container {
     padding: 1rem;
