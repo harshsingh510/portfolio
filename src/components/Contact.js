@@ -35,8 +35,8 @@ const Contact = () => {
                         </div>
                         <div className="contact-hello">
                             <p>Say Hello</p>
-                            <Link className='hello-links' to="//wa.me/+2348060860565" target='_blank'>wa.me/pappyjay23</Link>
-                            <Link className='hello-links' to="//mailto:pjinadu02@gmail.com" target='_blank'>pjinadu02@gmail.com</Link>
+                            <Link className='hello-links' to="//wa.me/+919519441753" target='_blank'>wa.me/Harsh_Singh</Link>
+                            <Link className='hello-links' to="//mailto:harsh510official@gmail.com" target='_blank'>harsh510official@gmail.com</Link>
                         </div>
                     </motion.div>
                     <motion.div className="right-box" initial={{opacity: 0, y: '50px'}} whileInView={verticalLeft}>
@@ -60,7 +60,7 @@ const Contact = () => {
                                 />
                             </div>
 
-                            <div className="email">
+                               <div className="email">
                                 <label htmlFor="email">Your Email</label>
                                 <input
                                 type="email"
