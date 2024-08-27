@@ -1,7 +1,7 @@
 export const WorkData = [
 	{
 		title: "Doctor's Appointment Website",
-		desc: "A complete multiple doctor website, with patient and doctor dashboard. Intergrated with appointment booking and auto mailing",
+		desc: "A complete multiple doctor website, with patient and doctor dashboard.",
 		tech: ["React.js", "TypeScript", "PostgreSQL", "APIs", "Axios", 'Redux', 'ExpressJs','NodeJs'],
 		gitlink: "//github.com/harshsingh510/drsingh-frontend",
 		site: "//drnityasingh.vercel.app/",
