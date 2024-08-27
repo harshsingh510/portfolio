@@ -1,10 +1,10 @@
 export const WorkData = [
 	{
-		title: "Netflix Clone",
-		desc: "A movie app using the netflix UI with a touch of creativity.",
-		tech: ["React.js", "Firebase", "TailwindCss", "APIs", "Axios", 'Context API'],
-		gitlink: "//github.com/Pappyjay23/netflix-clone",
-		site: "//netflix-vp.netlify.app/",
+		title: "Doctor's Appointment Website",
+		desc: "A complete multiple doctor website, with patient and doctor dashboard. Intergrated with appointment booking and auto mailing",
+		tech: ["React.js", "TypeScript", "PostgreSQL", "APIs", "Axios", 'Redux', 'ExpressJs','NodeJs'],
+		gitlink: "//github.com/harshsingh510/drsingh-frontend",
+		site: "//drnityasingh.vercel.app/",
 	},
 	{
 		title: "Crypto Price Tracker",
@@ -13,13 +13,13 @@ export const WorkData = [
 		gitlink: "//github.com/Pappyjay23/crypto-tracker",
 		site: "//mini-crypto-price-tracker.netlify.app",
 	},
-	{
-		title: "The Movie Hub",
-		desc: "A movie app for discovering new movies",
-		tech: ["React.js", "Axios", "APIs", "TailwindCss", "Material UI"],
-		gitlink: "//github.com/Pappyjay23/the-movie-hub",
-		site: "//the-movie-hub-v1.netlify.app",
-	},
+	// {
+	// 	title: "The Movie Hub",
+	// 	desc: "A movie app for discovering new movies",
+	// 	tech: ["React.js", "Axios", "APIs", "TailwindCss", "Material UI"],
+	// 	gitlink: "//github.com/Pappyjay23/the-movie-hub",
+	// 	site: "//the-movie-hub-v1.netlify.app",
+	// },
 	{
 		title: "Budget App",
 		desc: "A budget web app",
