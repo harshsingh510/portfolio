@@ -3,7 +3,7 @@ export const WorkData = [
 		title: "Doctor's Appointment Website",
 		desc: "A complete multiple doctor website, with patient and doctor dashboard.",
 		tech: ["React.js", "TypeScript", "PostgreSQL", "APIs", "Axios", 'Redux', 'ExpressJs','NodeJs'],
-		gitlink: "//github.com/harshsingh510/drsingh-frontend",
+		gitlink: "//github.com/harshsingh510/drsingh",
 		site: "//drnityasingh.vercel.app/",
 	},
 	{
