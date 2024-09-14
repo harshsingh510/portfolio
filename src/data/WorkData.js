@@ -13,13 +13,13 @@ export const WorkData = [
 		gitlink: "//github.com/Pappyjay23/crypto-tracker",
 		site: "//mini-crypto-price-tracker.netlify.app",
 	},
-	// {
-	// 	title: "The Movie Hub",
-	// 	desc: "A movie app for discovering new movies",
-	// 	tech: ["React.js", "Axios", "APIs", "TailwindCss", "Material UI"],
-	// 	gitlink: "//github.com/Pappyjay23/the-movie-hub",
-	// 	site: "//the-movie-hub-v1.netlify.app",
-	// },
+	{
+		title: "Paris Olympics",
+		desc: "A Power BI dashboard",
+		tech: ["Power BI", "Python", "Kaggle"],
+		gitlink: "https://github.com/harshsingh510/Paris-Olympics-DB",
+		site: "https://app.powerbi.com/reportEmbed?reportId=a4951800-31f6-47cd-9eee-739e71809c7f",
+	},
 	{
 		title: "Budget App",
 		desc: "A budget web app",
@@ -34,13 +34,7 @@ export const WorkData = [
 		gitlink: "//www.github.com/Pappyjay23/instablog",
 		site: "//instablog-v1.netlify.app/",
 	},
-	{
-		title: "Todo App",
-		desc: "A todo list web app",
-		tech: ["React.js", "Css", "PWAs"],
-		gitlink: "//www.github.com/Pappyjay23/todo-list",
-		site: "//todo-list-v0.netlify.app",
-	},
+	
 	{
 		title: "Onixx Digital",
 		desc: "A website for a company that helps with project and site management for the best optimization",
