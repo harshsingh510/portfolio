@@ -17,8 +17,8 @@ export const WorkData = [
 		title: "Paris Olympics",
 		desc: "A Power BI dashboard",
 		tech: ["Power BI", "Python", "Kaggle"],
-		gitlink: "https://github.com/harshsingh510/Paris-Olympics-DB",
-		site: "https://app.powerbi.com/reportEmbed?reportId=a4951800-31f6-47cd-9eee-739e71809c7f",
+		gitlink: "//github.com/harshsingh510/Paris-Olympics-DB",
+		site: "app.powerbi.com/reportEmbed?reportId=a4951800-31f6-47cd-9eee-739e71809c7f",
 	},
 	{
 		title: "Budget App",
